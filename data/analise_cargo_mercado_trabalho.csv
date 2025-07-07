@@ -1,0 +1,27 @@
+﻿Cargo,NivelCargo,Salario,DemandaOfertaVagas
+Analista de QA,1,3200,3
+Analista de QA,2,5000,3
+Analista de QA,3,7100,3
+Analista de RH,1,2500,1
+Analista de RH,2,5000,1
+Analista de RH,3,7000,1
+Arquiteto(a) de Soluções,2,9000,4
+Arquiteto(a) de Soluções,3,12000,4
+Arquiteto(a) de Soluções,4,15000,4
+Diretor(a) de Operações,2,13000,3
+Diretor(a) de Operações,3,16000,3
+Diretor(a) de Operações,4,20000,3
+Diretor(a) de Tecnologia,3,15000,3
+Diretor(a) de Tecnologia,4,20000,3
+Diretor(a) de Tecnologia,5,25000,3
+Engenheiro(a) de Machine Learning,1,5000,4
+Engenheiro(a) de Machine Learning,2,9000,4
+Engenheiro(a) de Machine Learning,3,14000,4
+Executivo(a) de Contas,2,5200,2
+Executivo(a) de Contas,3,8000,2
+Executivo(a) de Contas,4,12000,2
+Gerente de Projetos,3,12000,2
+Gerente de Projetos,4,15000,2
+Gerente de Projetos,5,18000,2
+SDR (Sales Development Representative),1,3000,2
+SDR (Sales Development Representative),2,5000,2
