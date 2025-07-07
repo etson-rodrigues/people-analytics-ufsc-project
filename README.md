@@ -1,0 +1,3 @@
+Projeto prático de People Analytics focado em um dos maiores desafios para as empresas: a rotatividade de funcionários (turnover). A perda de talentos gera custos significativos com novas contratações, treinamento e perda de conhecimento institucional.
+
+Utilizando um conjunto de dados de RH, este projeto desenvolve um modelo de Machine Learning para prever a probabilidade de um funcionário deixar a empresa. O processo inclui desde a limpeza e análise exploratória dos dados até o treinamento e a avaliação de múltiplos algoritmos, culminando em um modelo otimizado capaz de identificar os colaboradores com maior risco de demissão. O objetivo final é fornecer uma ferramenta que permita ao RH agir de forma proativa para reter talentos valiosos.
